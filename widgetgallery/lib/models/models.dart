@@ -1,2 +1,2 @@
-export 'package:widgetgallery/models/menu_options.dart';
+export 'package:widgetgallery/models/menu_option.dart';
 
